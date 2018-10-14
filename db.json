@@ -1,0 +1,41 @@
+{
+  "series": [
+    {
+      "id": 1,
+      "name": "How I met your mother",
+      "status": "watched",
+      "genre": "Comédia",
+      "comments": "Muito bom"
+    },
+    {
+      "id": 2,
+      "name": "Friends",
+      "status": "watching",
+      "genre": "Comédia",
+      "current": {
+        "episode": "01",
+        "season": "09"
+      },
+      "comments": "Bom para descontrair"
+    },
+    {
+      "id": 3,
+      "name": "Breaking Bad 2",
+      "status": "watched",
+      "genre": "Ação",
+      "comments": "Say My Name - melhor cena"
+    },
+    {
+      "id": 5,
+      "name": "How To Get Away With The Murder",
+      "status": "watched",
+      "genre": "Drama",
+      "comments": "Série de um conjunto de advogados que defendem acusados de crimes"
+    }
+  ],
+  "genres": [
+    "Comédia",
+    "Drama",
+    "Ação"
+  ]
+}
