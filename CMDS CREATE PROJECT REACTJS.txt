@@ -11,3 +11,6 @@ json-server --watch db.json --port portNumber
 yarn add axios
 yarn add react-router-dom
 yarn run build >> gera o projeto de producao
+
+subindo appp
+yarn start
